@@ -57,5 +57,3 @@ These are the current features of the product:
 
 View the Requirements doc for project specifications. This is the final doc (there were 3 versions). 
 Update: Got an email from the professor declaring this the best project of CS 506 (Software Engineering) this semester (Spring 2023) and potentially overrall. 
-
-I'm excited to be able to share this with people! I don't see an everyday use for this but after completing docker instructions anyone can clone and run the entire app with detailed instructions. Email me at sjain85@wisc.edu to work with me on my next project much bigger and better than this!
